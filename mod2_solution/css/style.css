@@ -16,10 +16,6 @@ div#container {
 }
 
 
-div.section3 {
-	width: 2em;
-}
-
 
 
 h1 {
@@ -59,7 +55,7 @@ span {
 
 .section3 {
 	background-color: #1b1b1c;
-	flex-basis: 100% | auto;
+	
 }
 
 
@@ -75,7 +71,7 @@ p {
 	color:white;
 	position: relative;
 	padding-top: 30px;
-	clear: right;
+	
 }
 
 /*Large Devices*/
