@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: black;
-  background-color: #ededed;
+  background-color: #bcbcbc;
 
 }
 
@@ -90,7 +90,7 @@ h2 {
 	margin-bottom: 15px;
   	position: relative;
   	width: 100%;
-  	border-color: #ededed;
+  	border-color: #bcbcbc;
   	padding-right: 25px;
   	padding-left: 25px;
   	padding-bottom: 20px;
